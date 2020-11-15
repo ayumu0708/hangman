@@ -38,4 +38,6 @@ class Deck:
                 cards.append(Card(i,j))
     def rm_pickup():
         return cards.pop
+
+p1 = player("松本")
     
